@@ -135,9 +135,10 @@
 ### 📊 GitHub Engineering Telemetry
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=AjeetSln&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&include_all_commits=true" alt="AjeetSln GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetSln&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" alt="Top Languages" />
+  <img src="./assets/github-stats.svg" width="100%" alt="AjeetSln GitHub Stats & Languages (Public + Private)" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjeetSln&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f59e0b&currStreakLabel=a78bfa" alt="GitHub Streak" />
