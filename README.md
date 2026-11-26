@@ -136,16 +136,10 @@
 
 <div align="center">
   <img src="./assets/github-stats.svg" width="100%" alt="AjeetSln GitHub Stats & Languages (Public + Private)" />
-</div>
 
-<br/>
+  <br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjeetSln&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f59e0b&currStreakLabel=a78bfa" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjeetSln&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=6366f1&point=22d3ee" width="100%" alt="Contribution Activity Graph" />
+  <img src="./assets/contribution-activity.svg" width="100%" alt="Ajeet Prajapati's Contribution Streak & 12-Month Velocity (Public + Private)" />
 </div>
 
 ---

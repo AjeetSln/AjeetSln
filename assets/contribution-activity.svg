@@ -1,0 +1,98 @@
+<svg width="1200" height="335" viewBox="0 0 1200 335" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgMain" x1="0" y1="0" x2="1200" y2="335" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+    <linearGradient id="areaGrad" x1="0" y1="152" x2="0" y2="268" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0.02" />
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="78" y1="0" x2="1138" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#22D3EE" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="1200" y2="335" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0.6" />
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="331" rx="16" fill="url(#bgMain)" stroke="url(#borderGrad)" stroke-width="1.5" />
+
+  <!-- Top Streak & Contribution Summary Bar -->
+  <!-- Card 1: All-Time -->
+  <rect x="24" y="20" width="368" height="84" rx="12" fill="#0D1117" stroke="#1E293B" stroke-width="1" />
+  <text x="208" y="54" text-anchor="middle" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="800">519</text>
+  <text x="208" y="74" text-anchor="middle" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">Total Contributions (Public + Private)</text>
+  <text x="208" y="92" text-anchor="middle" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Jun 30, 2023 - Present</text>
+
+  <!-- Card 2: Rolling 12 Months -->
+  <rect x="416" y="20" width="368" height="84" rx="12" fill="#0D1117" stroke="#4F46E5" stroke-opacity="0.8" stroke-width="1.5" />
+  <text x="600" y="54" text-anchor="middle" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="800">464</text>
+  <text x="600" y="74" text-anchor="middle" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">Contributions in the Last Year</text>
+  <text x="600" y="92" text-anchor="middle" fill="#A78BFA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Verified GitHub Profile Graph (Incl. Private)</text>
+
+  <!-- Card 3: Longest Streak -->
+  <rect x="808" y="20" width="368" height="84" rx="12" fill="#0D1117" stroke="#1E293B" stroke-width="1" />
+  <text x="992" y="54" text-anchor="middle" fill="#FBBF24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="800">20 Days</text>
+  <text x="992" y="74" text-anchor="middle" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">Longest Coding Streak</text>
+  <text x="992" y="92" text-anchor="middle" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Jan 5, 2026 - Jan 24, 2026</text>
+
+  <!-- Chart Title -->
+  <text x="32" y="132" fill="#A78BFA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700">
+    Ajeet Prajapati's 12-Month Contribution Velocity (Public + Private)
+  </text>
+
+  <!-- Chart Grid & Curve -->
+  <line x1="64" y1="268.0" x2="1152" y2="268.0" stroke="#1E293B" stroke-width="1" stroke-dasharray="4 4" />
+<text x="54" y="272.0" text-anchor="end" fill="#64748B" font-family="'SFMono-Regular', Consolas, monospace" font-size="11">0</text>
+<line x1="64" y1="239.0" x2="1152" y2="239.0" stroke="#1E293B" stroke-width="1" stroke-dasharray="4 4" />
+<text x="54" y="243.0" text-anchor="end" fill="#64748B" font-family="'SFMono-Regular', Consolas, monospace" font-size="11">36</text>
+<line x1="64" y1="210.0" x2="1152" y2="210.0" stroke="#1E293B" stroke-width="1" stroke-dasharray="4 4" />
+<text x="54" y="214.0" text-anchor="end" fill="#64748B" font-family="'SFMono-Regular', Consolas, monospace" font-size="11">72</text>
+<line x1="64" y1="181.0" x2="1152" y2="181.0" stroke="#1E293B" stroke-width="1" stroke-dasharray="4 4" />
+<text x="54" y="185.0" text-anchor="end" fill="#64748B" font-family="'SFMono-Regular', Consolas, monospace" font-size="11">108</text>
+<line x1="64" y1="152.0" x2="1152" y2="152.0" stroke="#1E293B" stroke-width="1" stroke-dasharray="4 4" />
+<text x="54" y="156.0" text-anchor="end" fill="#64748B" font-family="'SFMono-Regular', Consolas, monospace" font-size="11">144</text>
+
+  <path d="M 78.0 210.8 C 126.2 210.8, 126.2 152.0, 174.4 152.0 C 222.6 152.0, 222.6 189.1, 270.7 189.1 C 318.9 189.1, 318.9 172.9, 367.1 172.9 C 415.3 172.9, 415.3 263.2, 463.5 263.2 C 511.6 263.2, 511.6 268.0, 559.8 268.0 C 608.0 268.0, 608.0 259.9, 656.2 259.9 C 704.4 259.9, 704.4 264.8, 752.5 264.8 C 800.7 264.8, 800.7 265.6, 848.9 265.6 C 897.1 265.6, 897.1 267.2, 945.3 267.2 C 993.4 267.2, 993.4 261.6, 1041.6 261.6 C 1089.8 261.6, 1089.8 267.2, 1138.0 267.2 L 1138.0 268.0 L 78.0 268.0 Z" fill="url(#areaGrad)" />
+  <path d="M 78.0 210.8 C 126.2 210.8, 126.2 152.0, 174.4 152.0 C 222.6 152.0, 222.6 189.1, 270.7 189.1 C 318.9 189.1, 318.9 172.9, 367.1 172.9 C 415.3 172.9, 415.3 263.2, 463.5 263.2 C 511.6 263.2, 511.6 268.0, 559.8 268.0 C 608.0 268.0, 608.0 259.9, 656.2 259.9 C 704.4 259.9, 704.4 264.8, 752.5 264.8 C 800.7 264.8, 800.7 265.6, 848.9 265.6 C 897.1 265.6, 897.1 267.2, 945.3 267.2 C 993.4 267.2, 993.4 261.6, 1041.6 261.6 C 1089.8 261.6, 1089.8 267.2, 1138.0 267.2" fill="none" stroke="url(#lineGrad)" stroke-width="3" stroke-linecap="round" />
+  <circle cx="78.0" cy="210.8" r="5" fill="#0D1117" stroke="#22D3EE" stroke-width="2.5" />
+<text x="78.0" y="198.8" text-anchor="middle" fill="#E2E8F0" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" font-weight="700">71</text>
+<text x="78.0" y="292.0" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">Dec '25</text>
+<circle cx="174.4" cy="152.0" r="5" fill="#0D1117" stroke="#22D3EE" stroke-width="2.5" />
+<text x="174.4" y="170.0" text-anchor="middle" fill="#E2E8F0" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" font-weight="700">144</text>
+<text x="174.4" y="292.0" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">Jan '26</text>
+<circle cx="270.7" cy="189.1" r="5" fill="#0D1117" stroke="#22D3EE" stroke-width="2.5" />
+<text x="270.7" y="177.1" text-anchor="middle" fill="#E2E8F0" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" font-weight="700">98</text>
+<text x="270.7" y="292.0" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">Feb '26</text>
+<circle cx="367.1" cy="172.9" r="5" fill="#0D1117" stroke="#22D3EE" stroke-width="2.5" />
+<text x="367.1" y="160.9" text-anchor="middle" fill="#E2E8F0" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" font-weight="700">118</text>
+<text x="367.1" y="292.0" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">Mar '26</text>
+<circle cx="463.5" cy="263.2" r="5" fill="#0D1117" stroke="#22D3EE" stroke-width="2.5" />
+<text x="463.5" y="251.2" text-anchor="middle" fill="#E2E8F0" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" font-weight="700">6</text>
+<text x="463.5" y="292.0" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">Apr '26</text>
+<circle cx="559.8" cy="268.0" r="5" fill="#0D1117" stroke="#22D3EE" stroke-width="2.5" />
+<text x="559.8" y="292.0" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">May '26</text>
+<circle cx="656.2" cy="259.9" r="5" fill="#0D1117" stroke="#22D3EE" stroke-width="2.5" />
+<text x="656.2" y="247.89999999999998" text-anchor="middle" fill="#E2E8F0" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" font-weight="700">10</text>
+<text x="656.2" y="292.0" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">Jun '26</text>
+<circle cx="752.5" cy="264.8" r="5" fill="#0D1117" stroke="#22D3EE" stroke-width="2.5" />
+<text x="752.5" y="252.8" text-anchor="middle" fill="#E2E8F0" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" font-weight="700">4</text>
+<text x="752.5" y="292.0" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">Jul '26</text>
+<circle cx="848.9" cy="265.6" r="5" fill="#0D1117" stroke="#22D3EE" stroke-width="2.5" />
+<text x="848.9" y="253.60000000000002" text-anchor="middle" fill="#E2E8F0" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" font-weight="700">3</text>
+<text x="848.9" y="292.0" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">Aug '26</text>
+<circle cx="945.3" cy="267.2" r="5" fill="#0D1117" stroke="#22D3EE" stroke-width="2.5" />
+<text x="945.3" y="255.2" text-anchor="middle" fill="#E2E8F0" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" font-weight="700">1</text>
+<text x="945.3" y="292.0" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">Sep '26</text>
+<circle cx="1041.6" cy="261.6" r="5" fill="#0D1117" stroke="#22D3EE" stroke-width="2.5" />
+<text x="1041.6" y="249.60000000000002" text-anchor="middle" fill="#E2E8F0" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" font-weight="700">8</text>
+<text x="1041.6" y="292.0" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">Oct '26</text>
+<circle cx="1138.0" cy="267.2" r="5" fill="#0D1117" stroke="#22D3EE" stroke-width="2.5" />
+<text x="1138.0" y="255.2" text-anchor="middle" fill="#E2E8F0" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" font-weight="700">1</text>
+<text x="1138.0" y="292.0" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">Nov '26</text>
+
+</svg>
