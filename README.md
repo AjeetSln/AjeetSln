@@ -1,83 +1,44 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:7c3aed&height=210&section=header&text=Ajeet%20Prajapati&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Chief%20Technology%20Officer%20%7C%20Full%20Stack%20Developer%20%7C%20SaaS%20Architect&descAlignY=62&descSize=18" width="100%" alt="Ajeet Prajapati Header" />
+  <img src="./assets/hero-banner.svg" width="100%" alt="Ajeet Prajapati — CTO & SaaS Architect" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Chief+Technology+Officer+%40+LOLO+CAB;SaaS+Architect+%7C+Node.js+%E2%80%A2+React+%E2%80%A2+Flutter+%E2%80%A2+MongoDB;Building+Scalable+Mobility+%26+Enterprise+Platforms" alt="Typing SVG" />
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/ajeet-prajapati-336442219" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:ajeetp2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ajeetp2005%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years%20Full%20Stack-0F172A?style=for-the-badge&logo=rocket&logoColor=22D3EE" alt="Experience" />
+  <img src="https://komarev.com/ghpvc/?username=AjeetSln&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
 
-  <p>
-    <a href="https://www.linkedin.com/in/ajeet-prajapati-336442219" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:ajeetp2005@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=AjeetSln&label=Profile%20Views&color=4f46e5&style=for-the-badge" alt="Profile Views" />
-  </p>
+  <br/><br/>
+
+  <img src="./assets/impact-cards.svg" width="100%" alt="Key Leadership & Credentials" />
 </div>
 
 ---
 
-### 👋 About Me
-
-I'm **Ajeet Prajapati** — **Chief Technology Officer (CTO)**, **SaaS Architect**, and **Full Stack Developer** focused on taking scalable mobility, travel, and enterprise SaaS products from architecture to production.
-
-- 🚕 Currently leading engineering, architecture & infrastructure as **CTO @ LOLO CAB**
-- 🧭 Previously **Head of Technology @ Yoketrip India Pvt Ltd**, building travel booking & subscription ecosystems
-- 🛠️ Core strengths: **System Design, High-Scale REST APIs, Real-Time Trip Tracking, Dynamic Pricing Engines, Payment Gateways, RBAC & Ubuntu VPS Production Ops**
-- 🎓 **B.Sc. Computer Science** — Delhi University (2022 – 2025)
-- 🏆 Certified by **micro1** — *AI Interview Certification (Outstanding Performance, June 2026)*
-
----
-
-### 💼 Leadership & Engineering Experience
-
-| Role | Organization | Period | Key Ownership |
-| :--- | :--- | :--- | :--- |
-| **Chief Technology Officer (CTO)** | **LOLO CAB** | Apr 2026 – Present | Intercity cab architecture, Node.js/Express/MongoDB backend, dynamic pricing engine, live GPS trip tracking, RBAC, Admin portals & VPS pipelines |
-| **Head of Technology** | **Yoketrip India Pvt Ltd** | Mar 2025 – Apr 2026 | Travel booking & subscription platform, React.js web + Flutter mobile apps, payment gateway & subscription workflows, Ubuntu VPS releases |
-| **Freelance Full Stack Developer** | **Self Employed** | 2023 – Present | End-to-end SaaS, ERP, CRM & automation systems for domestic and international clients |
-
----
-
-### 🚀 Featured Systems & Projects
+### 🧠 What I Architect & Lead
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚕 LOLO CAB Platform</h4>
-      <p><b>Intercity Cab Booking Ecosystem</b></p>
+      <b>⚡ Backend, APIs & Real-Time Systems</b>
       <ul>
-        <li>Scalable Node.js + MongoDB backend with real-time driver telemetry & trip tracking.</li>
-        <li>Dynamic fare & pricing rule engine, multi-role RBAC, and Admin/SuperAdmin dashboards.</li>
-        <li>Automated booking, vendor/driver settlement, and KYC workflows.</li>
+        <li>Scalable <b>Node.js & Express.js</b> architectures with modular MVC services</li>
+        <li>Real-time GPS telemetry pipelines (<b>Socket.IO</b>) & live trip tracking</li>
+        <li>Dynamic fare & pricing engines, automated payouts & ledger workflows</li>
+        <li>Hardened <b>JWT Auth</b>, multi-role <b>RBAC</b> & S3 presigned document security</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>✈️ Yoketrip Platform</h4>
-      <p><b>Travel Booking & Subscription Ecosystem</b></p>
+      <b>📱 Web, Mobile & Cloud Operations</b>
       <ul>
-        <li>Full-stack subscription & travel platform spanning React.js web and Flutter mobile apps.</li>
-        <li>Secure payment gateway integration, recurring billing, and booking lifecycle APIs.</li>
-        <li>Managed production monitoring and Ubuntu VPS deployments.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📍 Attendance Management System</h4>
-      <p><b>Enterprise Geolocation Platform</b></p>
-      <ul>
-        <li>Geolocation-based attendance verification with reporting & strict RBAC.</li>
-        <li>Public repos: <a href="https://github.com/AjeetSln/attendanceUI"><code>attendanceUI</code></a> (Flutter) &bull; <a href="https://github.com/AjeetSln/backendAttendance"><code>backendAttendance</code></a> (Node.js)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏢 BMSPros Australia & Enterprise Web</h4>
-      <p><b>Administrative & Corporate Platforms</b></p>
-      <ul>
-        <li><b>BMSPros Australia:</b> Administrative management & operational automation (<a href="https://github.com/AjeetSln/bms_pro"><code>bms_pro</code></a>).</li>
-        <li><b>Vindhyasbpharma.com:</b> Corporate web platform & admin content management workflows.</li>
+        <li>Full-stack web apps & SuperAdmin control towers in <b>React.js & Redux</b></li>
+        <li>Cross-platform <b>Flutter</b> driver & customer apps with background location</li>
+        <li><b>Payment Gateways</b> & subscription billing workflows</li>
+        <li><b>Ubuntu VPS</b> deployment pipelines, zero-downtime releases & monitoring</li>
       </ul>
     </td>
   </tr>
@@ -85,7 +46,76 @@ I'm **Ajeet Prajapati** — **Chief Technology Officer (CTO)**, **SaaS Architect
 
 ---
 
-### 🛠️ Tech Stack & Architecture Toolkit
+### 🚀 Featured Production Platforms
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚕 LOLO CAB Platform</h3>
+      <p><sub><b>CTO · Apr 2026 – Present · Intercity Mobility SaaS</b></sub></p>
+      <p>End-to-end intercity cab booking ecosystem built for high-reliability operations across customer, driver, vendor, and admin portals.</p>
+      <ul>
+        <li>Architected booking lifecycle, dynamic pricing & route-override engines</li>
+        <li>Live driver GPS tracking, vendor/driver wallets, payouts & KYC verification</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-182032?style=flat-square&logo=node.js&logoColor=339933" />
+        <img src="https://img.shields.io/badge/MongoDB-182032?style=flat-square&logo=mongodb&logoColor=47A248" />
+        <img src="https://img.shields.io/badge/React.js-182032?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Flutter-182032?style=flat-square&logo=flutter&logoColor=02569B" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✈️ Yoketrip Platform</h3>
+      <p><sub><b>Head of Technology · Mar 2025 – Apr 2026 · Travel SaaS</b></sub></p>
+      <p>Travel booking and recurring subscription ecosystem spanning web dashboards and cross-platform mobile apps.</p>
+      <ul>
+        <li>Led architecture & delivery across React.js web & Flutter mobile teams</li>
+        <li>Built subscription billing, payment gateway flows & VPS release pipelines</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Express.js-182032?style=flat-square&logo=express&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/Flutter-182032?style=flat-square&logo=flutter&logoColor=02569B" />
+        <img src="https://img.shields.io/badge/React-182032?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Ubuntu_VPS-182032?style=flat-square&logo=ubuntu&logoColor=E95420" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📍 Enterprise Attendance Platform</h3>
+      <p><sub><b>Geolocation Verification · RBAC · Reporting</b></sub></p>
+      <p>Geolocation-verified workforce attendance platform with automated analytics and strict role-based access control.</p>
+      <ul>
+        <li>Mobile UI: <a href="https://github.com/AjeetSln/attendanceUI"><code>AjeetSln/attendanceUI</code></a></li>
+        <li>Backend API: <a href="https://github.com/AjeetSln/backendAttendance"><code>AjeetSln/backendAttendance</code></a></li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-182032?style=flat-square&logo=flutter&logoColor=02569B" />
+        <img src="https://img.shields.io/badge/Node.js-182032?style=flat-square&logo=node.js&logoColor=339933" />
+        <img src="https://img.shields.io/badge/RBAC-182032?style=flat-square&logo=jsonwebtokens&logoColor=A78BFA" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 BMSPros Australia &amp; Enterprise Web</h3>
+      <p><sub><b>Administrative SaaS · Corporate Workflows</b></sub></p>
+      <p>Custom operational portals, ERP/CRM automation modules, and corporate content management systems for domestic &amp; international clients.</p>
+      <ul>
+        <li><b>BMSPros Australia:</b> <a href="https://github.com/AjeetSln/bms_pro"><code>AjeetSln/bms_pro</code></a></li>
+        <li><b>Vindhyasbpharma.com:</b> Corporate website &amp; admin CMS workflows</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-182032?style=flat-square&logo=typescript&logoColor=3178C6" />
+        <img src="https://img.shields.io/badge/React-182032?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/MongoDB-182032?style=flat-square&logo=mongodb&logoColor=47A248" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Infrastructure
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,redux,flutter,js,ts,html,css,firebase,git,github,postman,linux" alt="Tech Stack Icons" />
@@ -93,30 +123,44 @@ I'm **Ajeet Prajapati** — **Chief Technology Officer (CTO)**, **SaaS Architect
 
 <br/>
 
-- **Frontend & Mobile:** `React.js` · `Flutter` · `Redux` · `JavaScript` · `TypeScript` · `HTML5` · `CSS3`
-- **Backend & Security:** `Node.js` · `Express.js` · `REST APIs` · `Socket.IO` · `JWT Authentication` · `RBAC`
-- **Data & Cloud:** `MongoDB` · `Firebase` · `Ubuntu VPS` · `Payment Gateways` · `Git` · `GitHub` · `Postman`
-- **Architecture:** `SaaS Architecture` · `System Design` · `Database Design` · `API Development` · `Cloud Deployment`
+| Layer | Technologies & Capabilities |
+| :--- | :--- |
+| **Frontend & Mobile** | `React.js` · `Flutter` · `Redux` · `JavaScript` · `TypeScript` · `HTML5` · `CSS3` |
+| **Backend & Auth** | `Node.js` · `Express.js` · `REST APIs` · `Socket.IO` · `JWT Authentication` · `RBAC` |
+| **Data & Cloud** | `MongoDB` · `Firebase` · `Ubuntu VPS` · `Payment Gateways` · `Git` · `GitHub` · `Postman` |
+| **Architecture** | `SaaS Architecture` · `System Design` · `Database Design` · `API Security` · `Cloud Deployment` |
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Engineering Telemetry
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=AjeetSln&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="AjeetSln GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetSln&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=AjeetSln&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&include_all_commits=true" alt="AjeetSln GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetSln&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjeetSln&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjeetSln&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f59e0b&currStreakLabel=a78bfa" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjeetSln&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=6366f1&point=22d3ee" width="100%" alt="Contribution Activity Graph" />
 </div>
 
 ---
 
-### 🤝 Let's Connect
+<div align="center">
+  <h3>🤝 Let's Build Something Impactful</h3>
+  <p>
+    Open to strategic tech collaborations, SaaS architecture discussions &amp; high-scale product engineering.<br/>
+    🎓 <b>B.Sc. Computer Science</b> (Delhi University) &nbsp;·&nbsp; 🏆 <b>micro1 AI Interview Certified</b> (Outstanding) &nbsp;·&nbsp; 🏏 Cricket &amp; Cinema
+  </p>
+  <a href="https://www.linkedin.com/in/ajeet-prajapati-336442219" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ajeetp2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-- 💼 **LinkedIn:** [linkedin.com/in/ajeet-prajapati-336442219](https://www.linkedin.com/in/ajeet-prajapati-336442219)
-- 📧 **Email:** [ajeetp2005@gmail.com](mailto:ajeetp2005@gmail.com)
-- 💡 **Interests:** System Architecture, Scalable Mobility Tech, Watching Movies & Playing Cricket 🏏
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:0f172a&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:0f172a&height=100&section=footer" width="100%" alt="Footer Wave" />
